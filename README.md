@@ -1,0 +1,1 @@
+Built a machine learning algorithm that will classify if the cab booking will get cancelled or not based on various inputs. The algorithms used for this classification problem are Logistic Regression and Decision Trees - both yielding good performance metrics.
